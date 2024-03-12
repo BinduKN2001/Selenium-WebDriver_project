@@ -3,6 +3,9 @@
 ## Overview
 The California Construction and Infrastructure Projects, Data is scraped from different data sources, it is developed using Selenium WebDriver with Java to extract data related to construction and infrastructure projects from various cities in California. This project aims to automate the process of collecting project information from different sources and standardizing the data for analysis and reporting purposes.
 
+## Screen Recorded Vedio
+https://drive.google.com/file/d/19TpsI9fyBoB26lkjtVCNrz-rnUE-7DI8/view?usp=sharing
+
 ## Features
 - **Automated Data Scraping**: Utilizes Selenium WebDriver to navigate through multiple web pages and extract project data from each source.
 - **Comprehensive Coverage**: Scans websites of different cities in California to gather information on construction and infrastructure projects.
