@@ -8,7 +8,7 @@ The California Construction and Infrastructure Projects, Data is scraped from di
 - **Comprehensive Coverage**: Scans websites of different cities in California to gather information on construction and infrastructure projects.
 
 ## Methods Used in Scraping:
-**Methods Used for Scraping: ** I employed Selenium WebDriver with Java to perform web scraping tasks efficiently. Selenium WebDriver provided robust capabilities to navigate 
+I employed Selenium WebDriver with Java to perform web scraping tasks efficiently. Selenium WebDriver provided robust capabilities to navigate 
 through various web pages and interact with their elements programmatically. Leveraging Java's versatility, I scripted automation routines to seamlessly traverse through the 
 list of URLs provided in Table of list , ensuring comprehensive coverage of construction and infrastructure project data across multiple cities in California.
 
